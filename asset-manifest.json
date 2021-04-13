@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/sign_jianshu/static/js/main.bfad5db7.chunk.js",
+    "main.js.map": "/sign_jianshu/static/js/main.bfad5db7.chunk.js.map",
+    "runtime-main.js": "/sign_jianshu/static/js/runtime-main.460b7cf9.js",
+    "runtime-main.js.map": "/sign_jianshu/static/js/runtime-main.460b7cf9.js.map",
+    "static/js/2.3dd51927.chunk.js": "/sign_jianshu/static/js/2.3dd51927.chunk.js",
+    "static/js/2.3dd51927.chunk.js.map": "/sign_jianshu/static/js/2.3dd51927.chunk.js.map",
+    "index.html": "/sign_jianshu/index.html",
+    "static/js/2.3dd51927.chunk.js.LICENSE.txt": "/sign_jianshu/static/js/2.3dd51927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460b7cf9.js",
+    "static/js/2.3dd51927.chunk.js",
+    "static/js/main.bfad5db7.chunk.js"
+  ]
+}
